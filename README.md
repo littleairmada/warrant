@@ -4,7 +4,7 @@
 
 Makes working with AWS Cognito easier for Python developers.
 
-[![Build Status](https://travis-ci.org/capless/warrant.svg?branch=master)](https://travis-ci.org/capless/warrant)
+[![Build Status](https://travis-ci.org/littleairmada/warrant.svg?branch=master)](https://travis-ci.org/littleairmada/warrant)
 
 ## Getting Started
 
@@ -477,4 +477,6 @@ tokens = aws.authenticate_user()
 
 **GitHub:** [@armicron](https://www.github.com/armicron)
 
-## [Release Notes](https://github.com/capless/warrant/blob/master/HISTORY.md)
+## [Release Notes](https://github.com/littleairmada/warrant/blob/master/HISTORY.md)
+
+## Forked from [capless/warrant](https://github.com/capless/warrant)
